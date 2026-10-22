@@ -1,10 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hey, I'm Isaac! 👋<br><br>🎓 Computer Science Student @ FCCU '28 | Aspiring AI/ML Engineer<br><br>I'm a CS student working toward becoming an AI/ML Engineer, driven by curiosity, problem-solving, and the desire to build things that actually matter.<br><br>🚀 **Currently exploring:** Machine Learning, Data Science, Python, and Artificial Intelligence.<br><br>💻 **Learning by building:** From data analysis and recommendation systems to hands-on experiments with algorithms and intelligent systems, I believe in turning concepts into working projects.<br><br>🌱 **My mindset:** Stay curious, embrace challenges, learn from mistakes, and keep improving. I'm documenting my journey one project and one commit at a time.<br><br>🎯 **My goal:** Build intelligent solutions to real-world problems and grow into an engineer who understands both the theory and the code behind the magic.<br><br>### 🛠️ Technologies I'm Exploring<br>Python • NumPy • Pandas • Machine Learning • Data Science • DSA<br><br>### 📌 A Little About Me<br>- 🔍 Curious about how AI works and how it can solve real problems.<br>- 🧠 Always learning something new and putting it into practice.<br>- 🏗️ Building projects to strengthen my skills and share my progress.<br>- 🤝 Open to learning, collaborating, and connecting with fellow developers.<br><br>**"Learn continuously. Build fearlessly. Improve relentlessly."** 🚀
 
-- 🔭 I’m currently working on Personel Development
-- 🌱 I’m currently learning Analysis Skills 
-- 👯 I’m looking to collaborate on Data Science
-- 🤔 I’m looking for help with Analysis
-- 💬 Ask me about Anything
-- 📫 How to reach me: Insta
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I,m a Gym-rat who loves to Swim 
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/isaac) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Isaac._.naveed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/isaac-naveed-8681a839a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaacnaveed777@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Isaac-Naveed&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Isaac-Naveed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Isaac-Naveed&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Isaac-Naveed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
